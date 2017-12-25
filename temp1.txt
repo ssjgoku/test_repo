@@ -1,1 +1,2 @@
 Adding a new file in the branch hotfix
+Adding a new line to this file

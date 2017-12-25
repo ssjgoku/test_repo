@@ -1,0 +1,4 @@
+[submodule "try_git"]
+	path = try_git
+	url = https://github.com/ssjgoku/try_git.git
+	branch = master

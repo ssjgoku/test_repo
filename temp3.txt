@@ -1,1 +1,2 @@
 Adding a new file to create a new commit on master before a rebse is attempted
+Editing this file in the feature branch. 

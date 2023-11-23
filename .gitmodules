@@ -1,0 +1,3 @@
+[submodule "try_git"]
+	path = try_git
+	url = git@github.com:ssjgoku/try_git.git

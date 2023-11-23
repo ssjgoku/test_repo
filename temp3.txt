@@ -1,3 +1,4 @@
 Adding a new file to create a new commit on master before a rebse is attempted
 Editing this file in the feature branch. 
-Editing this file in the new_feature branch
+Editing this file in the feature branch again
+Adding a feature in feature_branch

@@ -1,0 +1,1 @@
+Adding a new file to create a new commit on master before a rebse is attempted

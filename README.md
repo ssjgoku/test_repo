@@ -6,4 +6,4 @@ Adding a new line to practice git commit.
 
 Now adding a couple more lines to practice branching and merging.
 
-In branch_1
+In branch 2
